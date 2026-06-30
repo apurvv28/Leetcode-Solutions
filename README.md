@@ -64,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/apurvv28/Leetcode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+## Database
+|  |
+| ------- |
+| [1327-list-the-products-ordered-in-a-period](https://github.com/apurvv28/Leetcode-Solutions/tree/master/1327-list-the-products-ordered-in-a-period) |
 <!---LeetCode Topics End-->
