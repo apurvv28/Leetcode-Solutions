@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0180-consecutive-numbers](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0180-consecutive-numbers) |
+| [0627-swap-sex-of-employees](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0627-swap-sex-of-employees) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/apurvv28/Leetcode-Solutions/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1517-find-users-with-valid-e-mails](https://github.com/apurvv28/Leetcode-Solutions/tree/master/1517-find-users-with-valid-e-mails) |
 | [1527-patients-with-a-condition](https://github.com/apurvv28/Leetcode-Solutions/tree/master/1527-patients-with-a-condition) |
