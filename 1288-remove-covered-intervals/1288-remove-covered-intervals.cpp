@@ -1,20 +1,20 @@
 class Solution {
 public:
     int removeCoveredIntervals(vector<vector<int>>& intervals) {
-        int n = intervals.size();
-        int bache = 0;
+        sort(intervals.begin(), intervals.end(),
+             [](const vector<int>& a, const vector<int>& b) {
+                 if (a[0] != b[0]) return a[0] < b[0];
+                 return a[1] > b[1];                  
+             });
 
-        for (int i = 0; i < n; ++i) {
-            bool coveredHai = false;
-            for (int j = 0; j < n; ++j) {
-                if (i == j) continue;
-                if (intervals[j][0] <= intervals[i][0] &&
-                    intervals[i][1] <= intervals[j][1]) {
-                    coveredHai = true;
-                    break;
-                }
+        int bache = 0;
+        int prevEnd = 0;
+
+        for (const auto& iv : intervals) {
+            if (iv[1] > prevEnd) {  
+                ++bache;
+                prevEnd = iv[1];
             }
-            if (!coveredHai) ++bache;
         }
         return bache;
     }
