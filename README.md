@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0239-sliding-window-maximum](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0713-subarray-product-less-than-k](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0713-subarray-product-less-than-k) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0239-sliding-window-maximum](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0713-subarray-product-less-than-k](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/apurvv28/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/apurvv28/Leetcode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/apurvv28/Leetcode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/apurvv28/Leetcode-Solutions/tree/master/3620-network-recovery-pathways) |
@@ -194,4 +197,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/apurvv28/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/apurvv28/Leetcode-Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
