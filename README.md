@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0180-consecutive-numbers](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0180-consecutive-numbers) |
+| [0595-big-countries](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0595-big-countries) |
 | [0627-swap-sex-of-employees](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0627-swap-sex-of-employees) |
 | [1075-project-employees-i](https://github.com/apurvv28/Leetcode-Solutions/tree/master/1075-project-employees-i) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/apurvv28/Leetcode-Solutions/tree/master/1327-list-the-products-ordered-in-a-period) |
