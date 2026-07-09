@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1327-list-the-products-ordered-in-a-period](https://github.com/apurvv28/Leetcode-Solutions/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1517-find-users-with-valid-e-mails](https://github.com/apurvv28/Leetcode-Solutions/tree/master/1517-find-users-with-valid-e-mails) |
 | [1527-patients-with-a-condition](https://github.com/apurvv28/Leetcode-Solutions/tree/master/1527-patients-with-a-condition) |
+| [1683-invalid-tweets](https://github.com/apurvv28/Leetcode-Solutions/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/apurvv28/Leetcode-Solutions/tree/master/1757-recyclable-and-low-fat-products) |
 | [3436-find-valid-emails](https://github.com/apurvv28/Leetcode-Solutions/tree/master/3436-find-valid-emails) |
 ## Breadth-First Search
