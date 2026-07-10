@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0180-consecutive-numbers](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0180-consecutive-numbers) |
+| [0577-employee-bonus](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0577-employee-bonus) |
 | [0595-big-countries](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0595-big-countries) |
 | [0627-swap-sex-of-employees](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0627-swap-sex-of-employees) |
 | [1068-product-sales-analysis-i](https://github.com/apurvv28/Leetcode-Solutions/tree/master/1068-product-sales-analysis-i) |
