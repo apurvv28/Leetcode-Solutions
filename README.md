@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0485-max-consecutive-ones](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
+| [0523-continuous-subarray-sum](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0713-subarray-product-less-than-k) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0523-continuous-subarray-sum](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0992-subarrays-with-k-different-integers) |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0523-continuous-subarray-sum](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/apurvv28/Leetcode-Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/apurvv28/Leetcode-Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Stack
@@ -221,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0303-range-sum-query-immutable) |
+| [0523-continuous-subarray-sum](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
