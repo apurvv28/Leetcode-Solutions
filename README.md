@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/apurvv28/Leetcode-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/apurvv28/Leetcode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/apurvv28/Leetcode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1991-find-the-middle-index-in-array](https://github.com/apurvv28/Leetcode-Solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/apurvv28/Leetcode-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/apurvv28/Leetcode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/apurvv28/Leetcode-Solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/apurvv28/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/apurvv28/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/apurvv28/Leetcode-Solutions/tree/master/1732-find-the-highest-altitude) |
+| [1991-find-the-middle-index-in-array](https://github.com/apurvv28/Leetcode-Solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/apurvv28/Leetcode-Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Queue
 |  |
