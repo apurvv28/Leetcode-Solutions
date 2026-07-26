@@ -11,10 +11,8 @@
 class Solution {
 public:
     ListNode* removeElements(ListNode* head, int val) {
-        ListNode dummy(0);
-        dummy.next = head;
-
-        ListNode* prev = &dummy;
+        ListNode* dummy = new ListNode(0,head);
+        ListNode* prev = dummy;
         ListNode* curr = head;
 
         while(curr!=nullptr){
@@ -27,6 +25,6 @@ public:
             }
         }
 
-        return dummy.next;
+        return dummy->next;
     }
 };
