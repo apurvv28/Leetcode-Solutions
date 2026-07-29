@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0146-lru-cache) |
 | [0523-continuous-subarray-sum](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0146-lru-cache) |
 | [0303-range-sum-query-immutable](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0303-range-sum-query-immutable) |
 ## Number Theory
 |  |
@@ -382,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0146-lru-cache) |
 | [0147-insertion-sort-list](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0203-remove-linked-list-elements) |
@@ -410,5 +413,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0146-lru-cache) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 <!---LeetCode Topics End-->
