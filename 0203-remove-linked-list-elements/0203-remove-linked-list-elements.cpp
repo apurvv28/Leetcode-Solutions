@@ -15,7 +15,7 @@ public:
         ListNode* prev = dummy;
         ListNode* curr = head;
 
-        while(curr!=nullptr){
+        while(curr){
             if(curr->val==val){
                 prev->next = curr->next;
                 curr = curr->next;
