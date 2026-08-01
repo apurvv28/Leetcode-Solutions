@@ -13,21 +13,16 @@ public:
     ListNode* reverseKGroup(ListNode* head, int k) {
         ListNode* temp = head;
         int count = 0;
-        //Check if k nodes exists
         while(count<k){
-            if(temp==NULL){
+            if(temp==nullptr){
                 return head;
             }
-            temp=temp->next;
+            temp = temp->next;
             count++;
         }
-
-        //Recursively call for rest of LL
-        ListNode* prevNode = reverseKGroup(temp,k);
-
-        //Reversal
-        temp = head;
+        ListNode* prevNode = reverseKGroup(temp, k);
         count = 0;
+        temp = head;
         while(count<k){
             ListNode* next = temp->next;
             temp->next = prevNode;
