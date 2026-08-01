@@ -14,16 +14,15 @@ public:
         if(!head || !head->next){
             return head;
         }
-        ListNode* temp = NULL;
+        ListNode* temp = nullptr;
         ListNode* slow = head;
         ListNode* fast = head;
-
         while(fast && fast->next){
             temp = slow;
             slow = slow->next;
             fast = fast->next->next;
         }
-        temp->next = NULL;
+        temp->next = nullptr;
         ListNode* l1 = sortList(head);
         ListNode* l2 = sortList(slow);
         return mergeList(l1, l2);
