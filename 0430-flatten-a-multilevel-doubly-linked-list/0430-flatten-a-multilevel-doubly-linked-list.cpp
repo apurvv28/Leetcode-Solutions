@@ -11,9 +11,9 @@ public:
 
 class Solution {
 public:
-    Node* flatten(Node* head, Node* rest = nullptr) {
-     Node* curr = head;
-     while(curr){
+    Node* flatten(Node* head) {
+    Node* curr = head;
+    while(curr){
         if(curr->child!=nullptr){
             Node* nextNode = curr->next;
             Node* childNode = curr->child;
@@ -33,7 +33,7 @@ public:
             }
         }
         curr = curr->next;
-     }   
-     return head;
+    }
+    return head;
     }
 };
