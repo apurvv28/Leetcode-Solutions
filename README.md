@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0485-max-consecutive-ones](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
+| [0503-next-greater-element-ii](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0402-remove-k-digits) |
+| [0503-next-greater-element-ii](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -340,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0402-remove-k-digits](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0402-remove-k-digits) |
+| [0503-next-greater-element-ii](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [1124-longest-well-performing-interval](https://github.com/apurvv28/Leetcode-Solutions/tree/master/1124-longest-well-performing-interval) |
 ## Prefix Sum
 |  |
