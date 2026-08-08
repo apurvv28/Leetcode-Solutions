@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/apurvv28/Leetcode-Solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/apurvv28/Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/apurvv28/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/apurvv28/Leetcode-Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/apurvv28/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1590-make-sum-divisible-by-p](https://github.com/apurvv28/Leetcode-Solutions/tree/master/1590-make-sum-divisible-by-p) |
 | [1732-find-the-highest-altitude](https://github.com/apurvv28/Leetcode-Solutions/tree/master/1732-find-the-highest-altitude) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/apurvv28/Leetcode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1124-longest-well-performing-interval](https://github.com/apurvv28/Leetcode-Solutions/tree/master/1124-longest-well-performing-interval) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/apurvv28/Leetcode-Solutions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/apurvv28/Leetcode-Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/apurvv28/Leetcode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/apurvv28/Leetcode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
@@ -347,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 | [1124-longest-well-performing-interval](https://github.com/apurvv28/Leetcode-Solutions/tree/master/1124-longest-well-performing-interval) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/apurvv28/Leetcode-Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Prefix Sum
 |  |
 | ------- |
