@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 | [0877-stone-game](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0904-fruit-into-baskets) |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0946-validate-stack-sequences](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0946-validate-stack-sequences) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/apurvv28/Leetcode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -343,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0402-remove-k-digits](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 | [1124-longest-well-performing-interval](https://github.com/apurvv28/Leetcode-Solutions/tree/master/1124-longest-well-performing-interval) |
 ## Prefix Sum
 |  |
