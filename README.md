@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/apurvv28/Leetcode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/apurvv28/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/apurvv28/Leetcode-Solutions/tree/master/1991-find-the-middle-index-in-array) |
+| [2104-sum-of-subarray-ranges](https://github.com/apurvv28/Leetcode-Solutions/tree/master/2104-sum-of-subarray-ranges) |
 | [2270-number-of-ways-to-split-array](https://github.com/apurvv28/Leetcode-Solutions/tree/master/2270-number-of-ways-to-split-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/apurvv28/Leetcode-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/apurvv28/Leetcode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/apurvv28/Leetcode-Solutions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/apurvv28/Leetcode-Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/apurvv28/Leetcode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2104-sum-of-subarray-ranges](https://github.com/apurvv28/Leetcode-Solutions/tree/master/2104-sum-of-subarray-ranges) |
 | [2390-removing-stars-from-a-string](https://github.com/apurvv28/Leetcode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
@@ -362,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [1124-longest-well-performing-interval](https://github.com/apurvv28/Leetcode-Solutions/tree/master/1124-longest-well-performing-interval) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/apurvv28/Leetcode-Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [2104-sum-of-subarray-ranges](https://github.com/apurvv28/Leetcode-Solutions/tree/master/2104-sum-of-subarray-ranges) |
 ## Prefix Sum
 |  |
 | ------- |
