@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0402-remove-k-digits) |
 | [0680-valid-palindrome-ii](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0680-valid-palindrome-ii) |
+| [0784-letter-case-permutation](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0784-letter-case-permutation) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/apurvv28/Leetcode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/apurvv28/Leetcode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -437,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0090-subsets-ii) |
+| [0784-letter-case-permutation](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0784-letter-case-permutation) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/apurvv28/Leetcode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Design
 |  |
@@ -550,4 +552,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0090-subsets-ii) |
+| [0784-letter-case-permutation](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0784-letter-case-permutation) |
 <!---LeetCode Topics End-->
