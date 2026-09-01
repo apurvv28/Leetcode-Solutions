@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0224-basic-calculator](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0224-basic-calculator) |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0062-unique-paths) |
+| [0067-add-binary](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0227-basic-calculator-ii) |
@@ -471,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0090-subsets-ii) |
 | [0784-letter-case-permutation](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0784-letter-case-permutation) |
@@ -494,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0682-baseball-game](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 | [0946-validate-stack-sequences](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0946-validate-stack-sequences) |
