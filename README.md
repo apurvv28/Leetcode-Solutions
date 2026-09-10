@@ -387,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0779-k-th-symbol-in-grammar](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0779-k-th-symbol-in-grammar) |
 | [0877-stone-game](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/apurvv28/Leetcode-Solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/apurvv28/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -497,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0090-subsets-ii) |
+| [0779-k-th-symbol-in-grammar](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0779-k-th-symbol-in-grammar) |
 | [0784-letter-case-permutation](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0784-letter-case-permutation) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/apurvv28/Leetcode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Design
@@ -579,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0326-power-of-three) |
 | [0394-decode-string](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
+| [0779-k-th-symbol-in-grammar](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0779-k-th-symbol-in-grammar) |
 ## Merge Sort
 |  |
 | ------- |
