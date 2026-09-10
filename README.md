@@ -384,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0227-basic-calculator-ii) |
 | [0326-power-of-three](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0326-power-of-three) |
+| [0390-elimination-game](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0390-elimination-game) |
 | [0509-fibonacci-number](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -579,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0326-power-of-three) |
+| [0390-elimination-game](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0390-elimination-game) |
 | [0394-decode-string](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0779-k-th-symbol-in-grammar) |
