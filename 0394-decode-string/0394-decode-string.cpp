@@ -1,44 +1,30 @@
 class Solution {
 public:
-
-    string decodeString(string s) {
-        stack<char> st;
-        for(int i = 0; i < s.size(); i++){
-            if(s[i] != ']') {
-                st.push(s[i]);
-            }
-            else{
-                string curr_str = "";
-
-                while(st.top() != '['){
-                    curr_str = st.top() + curr_str ;
-                    st.pop();
+    string decodeString(string s){
+        int index = 0;
+        return solve(s, index);
+    }
+    string solve(string &s, int &i){
+        string result = "";
+        int number = 0;
+        while(i < s.size() && s[i] != ']'){
+            if(isdigit(s[i])){
+                number = 0;
+                while(i < s.size() && isdigit(s[i])){
+                    number = number * 10 + (s[i] - '0');
+                    i++;
                 }
-                
-                st.pop();   // for '['
-                string number = "";
-                
-                // for calculating number
-                
-                while(!st.empty() && isdigit(st.top())){
-                    number = st.top() + number;
-                    st.pop();
+                i++;  // skip '['
+                string inside = solve(s, i);
+                i++;  // skip ']'
+                while(number--){
+                    result += inside;
                 }
-                int k_time = stoi(number);   
-                
-                while(k_time--){
-                    for(int p = 0; p < curr_str.size() ; p++)
-                        st.push(curr_str[p]);
-                }
+            }else{
+                result += s[i];
+                i++;
             }
         }
-        
-        s = "";
-        while(!st.empty()){
-            s = st.top() + s;
-            st.pop();
-        }
-        return s;
-        
+        return result;
     }
 };
