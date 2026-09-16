@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
+| [0064-minimum-path-sum](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
 | [1301-number-of-paths-with-max-score](https://github.com/apurvv28/Leetcode-Solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/apurvv28/Leetcode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -349,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0062-unique-paths) |
+| [0064-minimum-path-sum](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0091-decode-ways](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0091-decode-ways) |
