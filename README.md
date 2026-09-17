@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/apurvv28/Leetcode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/apurvv28/Leetcode-Solutions/tree/master/2104-sum-of-subarray-ranges) |
 | [2270-number-of-ways-to-split-array](https://github.com/apurvv28/Leetcode-Solutions/tree/master/2270-number-of-ways-to-split-array) |
+| [2395-find-subarrays-with-equal-sum](https://github.com/apurvv28/Leetcode-Solutions/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/apurvv28/Leetcode-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/apurvv28/Leetcode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/apurvv28/Leetcode-Solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/apurvv28/Leetcode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/apurvv28/Leetcode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1590-make-sum-divisible-by-p](https://github.com/apurvv28/Leetcode-Solutions/tree/master/1590-make-sum-divisible-by-p) |
+| [2395-find-subarrays-with-equal-sum](https://github.com/apurvv28/Leetcode-Solutions/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/apurvv28/Leetcode-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/apurvv28/Leetcode-Solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3312-sorted-gcd-pair-queries](https://github.com/apurvv28/Leetcode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
