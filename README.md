@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0075-sort-colors) |
@@ -644,6 +645,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0090-subsets-ii) |
