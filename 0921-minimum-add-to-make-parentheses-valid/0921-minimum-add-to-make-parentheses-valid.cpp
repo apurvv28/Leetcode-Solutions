@@ -2,17 +2,18 @@ class Solution {
 public:
     int minAddToMakeValid(string s) {
         int open = 0, close = 0;
+        stack<char> st;
         for(char ch : s){
             if(ch == '('){
-                open++;
+                st.push(ch);
             }else{
-                if(open>0){
-                    open--;
+                if(!st.empty() && st.top() =='('){
+                    st.pop();
                 }else{
-                    close++;
+                    st.push(ch);
                 }
             }
         }
-        return open+close;
+        return st.size();
     }
 };
