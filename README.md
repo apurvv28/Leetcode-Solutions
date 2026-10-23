@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
+| [0389-find-the-difference](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [0523-continuous-subarray-sum](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0147-insertion-sort-list](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
+| [0389-find-the-difference](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0881-boats-to-save-people](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0948-bag-of-tokens) |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0227-basic-calculator-ii) |
 | [0316-remove-duplicate-letters](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0344-reverse-string) |
+| [0389-find-the-difference](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [0394-decode-string](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
@@ -575,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0342-power-of-four) |
+| [0389-find-the-difference](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [0779-k-th-symbol-in-grammar](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0779-k-th-symbol-in-grammar) |
 | [0784-letter-case-permutation](https://github.com/apurvv28/Leetcode-Solutions/tree/master/0784-letter-case-permutation) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/apurvv28/Leetcode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
